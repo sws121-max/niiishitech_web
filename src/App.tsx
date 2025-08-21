@@ -228,7 +228,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6">About Niiishitech</h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6">About niiishitech</h2>
               <p className="text-gray-300 mb-6 text-lg">
                 At Niiishitech, we're passionate about delivering innovative technology solutions that transform businesses. Our team of experienced professionals combines deep technical expertise with a commitment to excellence.
               </p>
@@ -298,7 +298,7 @@ function App() {
                   <Phone className="h-6 w-6 text-cyan-400 mr-4" />
                   <div>
                     <p className="font-semibold">Phone</p>
-                    <p className="text-gray-300">+1 (555) 123-4567</p>
+                    <p className="text-gray-300">+917589432897</p>
                   </div>
                 </div>
                 <div className="flex items-center">
@@ -312,7 +312,7 @@ function App() {
                   <MapPin className="h-6 w-6 text-purple-400 mr-4" />
                   <div>
                     <p className="font-semibold">Address</p>
-                    <p className="text-gray-300">123 Tech Avenue, Silicon Valley, CA 94025</p>
+                    <p className="text-gray-300">123 Phraser road,patna,bihar</p>
                   </div>
                 </div>
               </div>
