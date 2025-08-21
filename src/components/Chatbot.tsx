@@ -160,7 +160,7 @@ const Chatbot: React.FC<ChatbotProps> = ({ isOpen, onToggle }) => {
         <div className="flex items-center">
           <Bot className="h-6 w-6 text-white mr-2" />
           <div>
-            <h3 className="font-semibold text-white">Niiishitech Assistant</h3>
+            <h3 className="font-semibold text-white">niiishitech Assistant</h3>
             <p className="text-xs text-white/80">Online • Ready to help</p>
           </div>
         </div>
