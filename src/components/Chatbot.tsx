@@ -28,7 +28,7 @@ const Chatbot: React.FC<ChatbotProps> = ({ isOpen, onToggle }) => {
 
   const botResponses = {
     greetings: [
-      "Hello! Welcome to Niiishitech. How can I assist you today?",
+      "Hello! Welcome to niiishitech. How can I assist you today?",
       "Hi there! I'm here to help you with any questions about our services.",
       "Greetings! What would you like to know about Niiishitech?"
     ],
