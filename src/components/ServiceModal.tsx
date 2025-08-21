@@ -110,7 +110,7 @@ const ServiceModal: React.FC<ServiceModalProps> = ({ service, onClose }) => {
           {/* Contact Info */}
           <div className="mt-6 p-4 bg-gray-900 rounded-lg border border-gray-700">
             <p className="text-gray-300 text-sm">
-              Have questions? Call us at <span className="text-cyan-400 font-semibold">+1 (555) 123-4567</span> or email 
+              Have questions? Call us at <span className="text-cyan-400 font-semibold">+917643665598</span> or email 
               <span className="text-green-400 font-semibold"> hello@niiishitech.com</span>
             </p>
           </div>
