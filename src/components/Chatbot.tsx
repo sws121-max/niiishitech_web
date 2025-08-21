@@ -39,7 +39,7 @@ const Chatbot: React.FC<ChatbotProps> = ({ isOpen, onToggle }) => {
       subscription: "Our subscription services include 24/7 support, regular updates, performance monitoring, and backup solutions. This ensures your technology infrastructure runs smoothly. Would you like to learn more about our packages?"
     },
     contact: {
-      phone: "You can reach our team at +1 (555) 123-4567. We're available Monday-Friday 9 AM-6 PM PST, Saturday 10 AM-4 PM PST.",
+      phone: "You can reach our team at +91 7659823467. We're available Monday-Friday 9 AM-6 PM PST, Saturday 10 AM-4 PM PST.",
       email: "You can email us at hello@niiishitech.com. We typically respond within 2 hours during business hours.",
       address: "Our office is located at 123 Tech Avenue, Silicon Valley, CA 94025. You can also schedule a virtual consultation!",
       team: "Our team consists of certified cybersecurity experts, experienced developers, and dedicated support specialists. We're here to help you succeed!"
