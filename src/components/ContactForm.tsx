@@ -132,7 +132,7 @@ const ContactForm: React.FC = () => {
               className={`w-full px-4 py-3 bg-gray-700 text-white rounded-lg focus:outline-none focus:ring-2 transition-colors ${
                 errors.name ? 'border-2 border-red-500 focus:ring-red-400' : 'focus:ring-cyan-400'
               }`}
-              placeholder="John Doe"
+              placeholder="John Abram"
             />
             {errors.name && <p className="mt-1 text-sm text-red-400">{errors.name}</p>}
           </div>
@@ -150,7 +150,7 @@ const ContactForm: React.FC = () => {
               className={`w-full px-4 py-3 bg-gray-700 text-white rounded-lg focus:outline-none focus:ring-2 transition-colors ${
                 errors.email ? 'border-2 border-red-500 focus:ring-red-400' : 'focus:ring-cyan-400'
               }`}
-              placeholder="john@example.com"
+              placeholder="johnabram@gmail.com"
             />
             {errors.email && <p className="mt-1 text-sm text-red-400">{errors.email}</p>}
           </div>
