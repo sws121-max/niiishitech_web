@@ -170,7 +170,7 @@ const ContactForm: React.FC = () => {
               className={`w-full px-4 py-3 bg-gray-700 text-white rounded-lg focus:outline-none focus:ring-2 transition-colors ${
                 errors.phone ? 'border-2 border-red-500 focus:ring-red-400' : 'focus:ring-cyan-400'
               }`}
-              placeholder="+1 (555) 123-4567"
+              placeholder="+91 7594280567"
             />
             {errors.phone && <p className="mt-1 text-sm text-red-400">{errors.phone}</p>}
           </div>
